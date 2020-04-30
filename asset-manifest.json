@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.3b6ac00f.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.89f4186e.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.89f4186e.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.b1e97c2c.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.b1e97c2c.js.map",
+    "static/js/2.fe73393b.chunk.js": "/react-gh-pages/static/js/2.fe73393b.chunk.js",
+    "static/js/2.fe73393b.chunk.js.map": "/react-gh-pages/static/js/2.fe73393b.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.c241a6bba8e8c8fa423fb64bf2654c78.js": "/react-gh-pages/precache-manifest.c241a6bba8e8c8fa423fb64bf2654c78.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.3b6ac00f.chunk.css.map": "/react-gh-pages/static/css/main.3b6ac00f.chunk.css.map",
+    "static/js/2.fe73393b.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.fe73393b.chunk.js.LICENSE.txt",
+    "static/media/ConnectButton.png": "/react-gh-pages/static/media/ConnectButton.effd3179.png",
+    "static/media/InnerCircle.png": "/react-gh-pages/static/media/InnerCircle.99a95dd4.png",
+    "static/media/MiddleButtons.png": "/react-gh-pages/static/media/MiddleButtons.d9251c48.png",
+    "static/media/MovementButton.png": "/react-gh-pages/static/media/MovementButton.2fc3c0ee.png",
+    "static/media/MovementButtonOuterRing.png": "/react-gh-pages/static/media/MovementButtonOuterRing.5045274a.png",
+    "static/media/OuterRing.png": "/react-gh-pages/static/media/OuterRing.4c90771b.png",
+    "static/media/RotateButton.png": "/react-gh-pages/static/media/RotateButton.ce3e3fd6.png",
+    "static/media/UploadButton.png": "/react-gh-pages/static/media/UploadButton.0ba72823.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e97c2c.js",
+    "static/js/2.fe73393b.chunk.js",
+    "static/css/main.3b6ac00f.chunk.css",
+    "static/js/main.89f4186e.chunk.js"
+  ]
+}
